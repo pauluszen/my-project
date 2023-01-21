@@ -1,1 +1,3 @@
 second file text
+
+this file was midified in the feature file
